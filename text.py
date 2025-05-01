@@ -1,1 +1,1 @@
-print("Hello, Omkar Chavhan!")
+prin("Hello, Omkar Chavhan!")
